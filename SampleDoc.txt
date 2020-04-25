@@ -1,1 +1,2 @@
 This is my first sample doc
+This is the second line.
